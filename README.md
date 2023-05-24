@@ -12,8 +12,8 @@ The text editor will be a single-page application that meets the criteria of a P
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Usage](#usage)
 - [Project Links](#project-links)
+- [Author](#author)
 - [License](#license)
 
 ## Installation
