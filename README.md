@@ -31,6 +31,8 @@ The necessary dependencies specified in the `package.json` file will be installe
 
 To use the Text Editor:
 
+![image](https://github.com/Fabri-Tech/pwa-19-fabrizio-trevino/assets/116314228/6c17e20c-9eb3-42dc-b107-b092e9ebb591)
+
 1. Open the project in your preferred editor.
 2. Ensure the client-server folder structure is intact.
 3. Start the application by running `npm run start` from the root directory.
