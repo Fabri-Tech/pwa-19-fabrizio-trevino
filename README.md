@@ -24,11 +24,12 @@ To set up the Text Editor, follow these steps:
 2. Clone the GitHub repository: `git clone https://github.com/Fabri-Tech/pwa-19-fabrizio-trevino.git`
 
 ![image](https://github.com/Fabri-Tech/pwa-19-fabrizio-trevino/assets/116314228/1af87867-7e37-4dd0-a319-1fb4ffcca1fa)
+
+3. Navigate to the project directory: `cd pwa-19-fabrizio-trevino`
 4. Navigate to the project directory: `cd pwa-19-fabrizio-trevino`
 5. Install the required npm packages by running the command: `npm install`
 
 ![image](https://github.com/Fabri-Tech/pwa-19-fabrizio-trevino/assets/116314228/20fde5b1-c2d1-47a3-874a-198234c85f01)
-
 
 The necessary dependencies specified in the `package.json` file will be installed.
 
